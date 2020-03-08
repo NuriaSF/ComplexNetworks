@@ -1,0 +1,10 @@
+
+COMPLEX NETWORK
+
+HUMAN PROTEIN NETWORK
+
+Paper:
+https://www.embopress.org/doi/full/10.1038/msb4100134
+
+Data:
+http://konect.cc/networks/maayan-figeys/
